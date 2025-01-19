@@ -118,4 +118,4 @@ if __name__ == "__main__":
     game.initialize_game()
     game.distribute_items()
     if game.check_win_condition():
-        print("Вам конец!")
+        print("Вам конец")
